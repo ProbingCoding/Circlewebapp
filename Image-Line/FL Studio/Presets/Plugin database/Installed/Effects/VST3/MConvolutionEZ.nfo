@@ -1,0 +1,15 @@
+﻿fileversion=2
+iconindex=48
+color=$40B6F6
+tip=VST3 / 64 bit
+ps_name=MConvolutionEZ
+ps_presetfilename=%FLPluginDBPath%/Installed/Effects/VST3/MConvolutionEZ.fst
+ps_files=1
+ps_file_name_0=MConvolutionEZ
+ps_file_filename_0=/Library/Audio/Plug-Ins/VST3/MeldaProduction/Reverb/MConvolutionEZ.vst3
+ps_file_plugclass_0=7
+ps_file_bitsize_0=64
+ps_file_arch_0=Intel
+ps_file_date_0=68
+ps_file_size_0=96
+ps_file_scanflags_0=0
