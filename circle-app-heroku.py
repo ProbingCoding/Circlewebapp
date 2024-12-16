@@ -34,6 +34,7 @@ db = psycopg2.connect(
 )
 db.autocommit = True  # Auto commit for every query
 
+# This is a test
 
 @app.after_request
 def after_request(response):
